@@ -8,9 +8,9 @@ A Compound AI system that allows users to "chat" with their private documents. B
 ![RAG Output Demonstration](rag_demo.png)
 
 ## Technical Architecture
-* **Text Processing:** [Insert Library used, e.g., LangChain / PyPDF2]
-* **Embeddings & Vector Store:** [Insert Tech used, e.g., ChromaDB / FAISS]
-* **Generation Engine:** [Insert LLM used, e.g., Gemini API / Llama]
+* **Text Processing:** LangChain,PyPDF2
+* **Embeddings & Vector Store:** FAISS
+* **Generation Engine:** Gemini API
 
 ## How to Run Locally
 1. Clone repository and set up API keys in `.env`
